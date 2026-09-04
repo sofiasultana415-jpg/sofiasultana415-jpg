@@ -1,43 +1,160 @@
+# 👋 Hey, I'm Sofia Sultana
+
+### 🎓 Computer Science Student | 💻 Software Development | 📊 Data Analytics | 🧠 Data Science
+
+I'm a Computer Science student who loves learning by **building, experimenting, and solving problems**.
+
+I'm exploring the world of software development and data — from creating web projects and working with databases to analyzing data and learning the foundations of data science.
+
+I'm still learning, but I'm always building something new. 🚀
 
 ---
 
-## ⚠️ ONE IMPORTANT THING, BRO
+## 👩‍💻 About Me
 
-I intentionally **didn't call you a "Data Scientist" or "Software Engineer."**
-
-Because you're a **Computer Science student learning those areas**.
-
-That actually makes the profile stronger and more honest.
-
-Your headline:
-
-### **🎓 Computer Science Student | 💻 Software Development | 📊 Data Analytics | 🧠 Data Science**
-
-is PERFECT for where you are right now.
+- 🎓 Computer Science student
+- 💻 Interested in software development and web technologies
+- 📊 Passionate about data analytics and working with data
+- 🗄️ Currently learning SQL and databases
+- 🐍 Learning Python for programming and data analysis
+- 🧠 Exploring Data Science and its fundamentals
+- 🌱 Improving my programming and problem-solving skills
+- 🚀 I learn best by building real projects
+- 🔍 Always curious about how things work behind the scenes
 
 ---
 
-# 🔥 And then we make the profile look even better
+# 🛠️ Tech Stack
 
-The profile you showed has **46 repositories and six polished pinned projects**. :contentReference[oaicite:1]{index=1}
+### 💻 Programming & Web
 
-You don't need 46.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I'd rather make your profile have **5–6 REALLY good projects**.
+### 📊 Data & Analytics
 
-For you, I'd eventually want:
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-| Project | Area |
-|---|---|
-| 🎮 Tic Tac Toe | JavaScript |
-| 🌐 Portfolio Website | Web Development |
-| 🗄️ SQL Sales Analysis | SQL |
-| 📊 Customer Data Analysis | Python + Pandas |
-| 📈 Data Visualization Dashboard | Data Analytics |
-| 🤖 Beginner ML Project | Data Science |
+### 🔧 Tools
 
-THAT would make your profile tell a really nice story:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**CS Student → Programming → Web → SQL → Analytics → Data Science** 📈🔥
+---
 
-And bro, **your GitHub can absolutely become as polished as the example you sent** — just with *your own personality and your own learning journey*, instead of copying someone else's profile. ❤️‍🔥
+# 📊 Data Analytics Journey
+
+I'm currently building my foundation in data analytics.
+
+### 🗄️ SQL
+- SQL queries
+- Filtering & sorting
+- JOINs
+- GROUP BY
+- Aggregate functions
+- Subqueries
+- Database fundamentals
+
+### 🐍 Python
+- Python fundamentals
+- Functions
+- Data structures
+- File handling
+- Pandas
+- NumPy
+
+### 📈 Data Analysis
+- Data cleaning
+- Exploratory Data Analysis
+- Data visualization
+- Finding patterns in data
+- Communicating insights
+
+### 🧠 Data Science
+
+Currently exploring:
+
+- Statistics
+- Machine Learning fundamentals
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+
+📌 More data projects coming soon!
+
+---
+
+# 🚀 Projects
+
+### 🎮 Tic Tac Toe
+
+An interactive Tic Tac Toe game built while learning JavaScript.
+
+🔗 [View Repository](https://github.com/sofiasultana415-jpg/tic-tac-toe)
+
+---
+
+### 💡 FoundX
+
+A web project created as part of my development journey.
+
+🔗 [View Repository](https://github.com/sofiasultana415-jpg/FoundX)
+
+---
+
+### 🌐 Web Development Projects
+
+A collection of my experiments and projects while learning HTML, CSS and JavaScript.
+
+🔗 [Explore My Repositories](https://github.com/sofiasultana415-jpg?tab=repositories)
+
+---
+
+# 🎯 What I'm Working Towards
+
+### 📍 Right Now
+
+I'm building a strong foundation in:
+
+**Programming → SQL → Data Analytics → Software Development**
+
+while exploring **Data Science** and modern web technologies.
+
+### 🚀 Next Steps
+
+My current goals are:
+
+- 🐍 Become stronger with Python
+- 🗄️ Improve my SQL skills
+- 📊 Build real data analysis projects
+- 📈 Learn better data visualization
+- 🧠 Explore Machine Learning
+- 💻 Improve my web development skills
+- ⚛️ Learn React
+- 🚀 Build projects that solve real problems
+
+---
+
+# 💡 How I Learn
+
+I believe the best way to learn technology is to **build things**.
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Make mistakes
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Build again 🚀
