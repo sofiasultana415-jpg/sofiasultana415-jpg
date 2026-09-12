@@ -46,75 +46,6 @@ I'm still learning, but I'm always building something new. 🚀
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-# 📊 Data Analytics Journey
-
-I'm currently building my foundation in data analytics.
-
-### 🗄️ SQL
-- SQL queries
-- Filtering & sorting
-- JOINs
-- GROUP BY
-- Aggregate functions
-- Subqueries
-- Database fundamentals
-
-### 🐍 Python
-- Python fundamentals
-- Functions
-- Data structures
-- File handling
-- Pandas
-- NumPy
-
-### 📈 Data Analysis
-- Data cleaning
-- Exploratory Data Analysis
-- Data visualization
-- Finding patterns in data
-- Communicating insights
-
-### 🧠 Data Science
-
-Currently exploring:
-
-- Statistics
-- Machine Learning fundamentals
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-
-📌 More data projects coming soon!
-
----
-
-# 🚀 Projects
-
-### 🎮 Tic Tac Toe
-
-An interactive Tic Tac Toe game built while learning JavaScript.
-
-🔗 [View Repository](https://github.com/sofiasultana415-jpg/tic-tac-toe)
-
----
-
-### 💡 FoundX
-
-A web project created as part of my development journey.
-
-🔗 [View Repository](https://github.com/sofiasultana415-jpg/FoundX)
-
----
-
-### 🌐 Web Development Projects
-
-A collection of my experiments and projects while learning HTML, CSS and JavaScript.
-
-🔗 [Explore My Repositories](https://github.com/sofiasultana415-jpg?tab=repositories)
-
----
-
 # 🎯 What I'm Working Towards
 
 ### 📍 Right Now
@@ -140,21 +71,4 @@ My current goals are:
 
 ---
 
-# 💡 How I Learn
 
-I believe the best way to learn technology is to **build things**.
-
-```text
-Learn
-  ↓
-Practice
-  ↓
-Build
-  ↓
-Make mistakes
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Build again 🚀
