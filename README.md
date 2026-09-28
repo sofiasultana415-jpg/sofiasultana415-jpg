@@ -1,28 +1,3 @@
-# 👋 Hey, I'm Sofia Sultana
-
-### 🎓 Computer Science Student | 💻 Software Development | 📊 Data Analytics | 🧠 Data Science
-
-I'm a Computer Science student who loves learning by **building, experimenting, and solving problems**.
-
-I'm exploring the world of software development and data — from creating web projects and working with databases to analyzing data and learning the foundations of data science.
-
-I'm still learning, but I'm always building something new. 🚀
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Science student
-- 💻 Interested in software development and web technologies
-- 📊 Passionate about data analytics and working with data
-- 🗄️ Currently learning SQL and databases
-- 🐍 Learning Python for programming and data analysis
-- 🧠 Exploring Data Science and its fundamentals
-- 🌱 Improving my programming and problem-solving skills
-- 🚀 I learn best by building real projects
-- 🔍 Always curious about how things work behind the scenes
-
----
 
 # 🛠️ Tech Stack
 
@@ -45,30 +20,5 @@ I'm still learning, but I'm always building something new. 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-# 🎯 What I'm Working Towards
-
-### 📍 Right Now
-
-I'm building a strong foundation in:
-
-**Programming → SQL → Data Analytics → Software Development**
-
-while exploring **Data Science** and modern web technologies.
-
-### 🚀 Next Steps
-
-My current goals are:
-
-- 🐍 Become stronger with Python
-- 🗄️ Improve my SQL skills
-- 📊 Build real data analysis projects
-- 📈 Learn better data visualization
-- 🧠 Explore Machine Learning
-- 💻 Improve my web development skills
-- ⚛️ Learn React
-- 🚀 Build projects that solve real problems
-
----
 
 
